@@ -28,7 +28,7 @@ I’m passionate about turning messy data into meaningful insights. I recently c
 * Derived insights on student distribution and supervisor workload
 
 🔗 Check it out here:
-👉 [Student Placement Analysis Project](https://github.com/Toby_OT/student-placement-analysis)
+👉 [Student Placement Analysis Project](https://github.com/Toby-OT/student-placement-analysis)
 
 ---
 
